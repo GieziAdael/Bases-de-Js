@@ -16,7 +16,6 @@ El resultado se despliega dinámicamente en la misma página en forma de **lista
 ### Tecnologías utilizadas
 - **HTML5**: estructura de la página y formulario.
 - **JavaScript (puro)**: lógica para procesar la edad, generar un diccionario de áreas laborales y renderizar los resultados.
-- **CSS** (opcional): para estilos si se agrega posteriormente.
 
 ---
 
