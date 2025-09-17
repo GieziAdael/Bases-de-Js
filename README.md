@@ -17,12 +17,15 @@ El resultado se despliega dinámicamente en la misma página en forma de **lista
 - **HTML5**: estructura de la página y formulario.
 - **JavaScript (puro)**: lógica para procesar la edad, generar un diccionario de áreas laborales y renderizar los resultados.
 
+
 ---
 
 ### Cómo ejecutarlo
 1. Descarga o clona el repositorio.
 2. Abre el archivo `index.html` en tu navegador.
 3. Ingresa los datos en el formulario y haz clic en **“Enviar Datos sensuales”** para ver las recomendaciones.
+
+Tambien puedes usarlo desde GitHub Pages
 
 ---
 
